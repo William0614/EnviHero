@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-leaf-logo-green-leaves-5ab4681e8b2e93-removebg-preview (1) 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-leaf-logo-green-leaves-5ab4681e8b2e93-removebg-preview (1) 1@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-leaf-logo-green-leaves-5ab4681e8b2e93-removebg-preview (1) 1@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

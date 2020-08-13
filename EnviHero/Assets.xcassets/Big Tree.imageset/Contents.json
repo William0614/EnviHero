@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "in-by-a-kramer-on-cutout-tree-11562929348gsnnnwxn0g-removebg-preview 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "in-by-a-kramer-on-cutout-tree-11562929348gsnnnwxn0g-removebg-preview 1@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "in-by-a-kramer-on-cutout-tree-11562929348gsnnnwxn0g-removebg-preview 1@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
