@@ -13,6 +13,11 @@
 		9510417C24E029D80035907D /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9510417B24E029D80035907D /* OnboardingView.swift */; };
 		9510417E24E02B2F0035907D /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9510417D24E02B2F0035907D /* PageViewController.swift */; };
 		955285CC24E56CD300B8EED2 /* HangView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955285CB24E56CD300B8EED2 /* HangView.swift */; };
+		955285CF24E590F600B8EED2 /* ShowerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955285CE24E590F600B8EED2 /* ShowerView.swift */; };
+		955285D124E5993900B8EED2 /* NoCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955285D024E5993900B8EED2 /* NoCar.swift */; };
+		955285D324E59B4C00B8EED2 /* Kettle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955285D224E59B4C00B8EED2 /* Kettle.swift */; };
+		955285D524E59BDE00B8EED2 /* Switch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955285D424E59BDE00B8EED2 /* Switch.swift */; };
+		955285D724E59C7E00B8EED2 /* heating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955285D624E59C7E00B8EED2 /* heating.swift */; };
 		9552C9CE24D3C7D200E92BEA /* DESCRIPTION.en_us.html in Resources */ = {isa = PBXBuildFile; fileRef = 9552C9C524D3C7D100E92BEA /* DESCRIPTION.en_us.html */; };
 		9552C9CF24D3C7D200E92BEA /* RoundedMplus1c-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9552C9C624D3C7D100E92BEA /* RoundedMplus1c-Black.ttf */; };
 		9552C9D024D3C7D200E92BEA /* RoundedMplus1c-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9552C9C724D3C7D100E92BEA /* RoundedMplus1c-Medium.ttf */; };
@@ -28,6 +33,9 @@
 		9559B12224D684A900ABBB19 /* DietView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559B12124D684A900ABBB19 /* DietView.swift */; };
 		9559B12424D684B700ABBB19 /* ConsumptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559B12324D684B700ABBB19 /* ConsumptionView.swift */; };
 		955C6F4B24DFDE14000BD204 /* WebLaunchScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955C6F4A24DFDE14000BD204 /* WebLaunchScreen.swift */; };
+		955EB31524E6C7EE0022EF7A /* MeatFree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955EB31424E6C7EE0022EF7A /* MeatFree.swift */; };
+		955EB31724E6CC240022EF7A /* FlightOffest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955EB31624E6CC240022EF7A /* FlightOffest.swift */; };
+		955EB31924E6CF970022EF7A /* Recycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955EB31824E6CF970022EF7A /* Recycle.swift */; };
 		9566BA4524D2BD1700E85B16 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9566BA4424D2BD1700E85B16 /* AppDelegate.swift */; };
 		9566BA4724D2BD1700E85B16 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9566BA4624D2BD1700E85B16 /* SceneDelegate.swift */; };
 		9566BA4A24D2BD1700E85B16 /* EnviHero.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9566BA4824D2BD1700E85B16 /* EnviHero.xcdatamodeld */; };
@@ -57,6 +65,11 @@
 		9510417B24E029D80035907D /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		9510417D24E02B2F0035907D /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		955285CB24E56CD300B8EED2 /* HangView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HangView.swift; sourceTree = "<group>"; };
+		955285CE24E590F600B8EED2 /* ShowerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowerView.swift; sourceTree = "<group>"; };
+		955285D024E5993900B8EED2 /* NoCar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoCar.swift; sourceTree = "<group>"; };
+		955285D224E59B4C00B8EED2 /* Kettle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kettle.swift; sourceTree = "<group>"; };
+		955285D424E59BDE00B8EED2 /* Switch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Switch.swift; sourceTree = "<group>"; };
+		955285D624E59C7E00B8EED2 /* heating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = heating.swift; sourceTree = "<group>"; };
 		9552C9C524D3C7D100E92BEA /* DESCRIPTION.en_us.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = DESCRIPTION.en_us.html; sourceTree = "<group>"; };
 		9552C9C624D3C7D100E92BEA /* RoundedMplus1c-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RoundedMplus1c-Black.ttf"; sourceTree = "<group>"; };
 		9552C9C724D3C7D100E92BEA /* RoundedMplus1c-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RoundedMplus1c-Medium.ttf"; sourceTree = "<group>"; };
@@ -72,6 +85,9 @@
 		9559B12124D684A900ABBB19 /* DietView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DietView.swift; sourceTree = "<group>"; };
 		9559B12324D684B700ABBB19 /* ConsumptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsumptionView.swift; sourceTree = "<group>"; };
 		955C6F4A24DFDE14000BD204 /* WebLaunchScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebLaunchScreen.swift; sourceTree = "<group>"; };
+		955EB31424E6C7EE0022EF7A /* MeatFree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeatFree.swift; sourceTree = "<group>"; };
+		955EB31624E6CC240022EF7A /* FlightOffest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightOffest.swift; sourceTree = "<group>"; };
+		955EB31824E6CF970022EF7A /* Recycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recycle.swift; sourceTree = "<group>"; };
 		9566BA4124D2BD1700E85B16 /* EnviHero.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnviHero.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9566BA4424D2BD1700E85B16 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9566BA4624D2BD1700E85B16 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -110,14 +126,54 @@
 		955285CD24E5763400B8EED2 /* Habits */ = {
 			isa = PBXGroup;
 			children = (
+				955285DB24E59E0D00B8EED2 /* Food Habits */,
+				955285DA24E59E0100B8EED2 /* Consumption Habits */,
+				955285D924E59DF600B8EED2 /* Housing Habits */,
+				955285D824E59DED00B8EED2 /* Travel Habits */,
 				9596C28324D595F10021267B /* AddHabitsView.swift */,
 				9596C28524D5ADE70021267B /* TravelView.swift */,
 				9559B11F24D6849C00ABBB19 /* HousingView.swift */,
 				9559B12124D684A900ABBB19 /* DietView.swift */,
 				9559B12324D684B700ABBB19 /* ConsumptionView.swift */,
-				955285CB24E56CD300B8EED2 /* HangView.swift */,
 			);
 			path = Habits;
+			sourceTree = "<group>";
+		};
+		955285D824E59DED00B8EED2 /* Travel Habits */ = {
+			isa = PBXGroup;
+			children = (
+				955285D024E5993900B8EED2 /* NoCar.swift */,
+				955EB31624E6CC240022EF7A /* FlightOffest.swift */,
+			);
+			path = "Travel Habits";
+			sourceTree = "<group>";
+		};
+		955285D924E59DF600B8EED2 /* Housing Habits */ = {
+			isa = PBXGroup;
+			children = (
+				955285CE24E590F600B8EED2 /* ShowerView.swift */,
+				955285CB24E56CD300B8EED2 /* HangView.swift */,
+				955285D424E59BDE00B8EED2 /* Switch.swift */,
+				955285D224E59B4C00B8EED2 /* Kettle.swift */,
+				955285D624E59C7E00B8EED2 /* heating.swift */,
+			);
+			path = "Housing Habits";
+			sourceTree = "<group>";
+		};
+		955285DA24E59E0100B8EED2 /* Consumption Habits */ = {
+			isa = PBXGroup;
+			children = (
+				955EB31824E6CF970022EF7A /* Recycle.swift */,
+			);
+			path = "Consumption Habits";
+			sourceTree = "<group>";
+		};
+		955285DB24E59E0D00B8EED2 /* Food Habits */ = {
+			isa = PBXGroup;
+			children = (
+				955EB31424E6C7EE0022EF7A /* MeatFree.swift */,
+			);
+			path = "Food Habits";
 			sourceTree = "<group>";
 		};
 		9552C9C424D3C6E100E92BEA /* Resources */ = {
@@ -328,17 +384,25 @@
 				950D82C824DD6AF3002EAAD7 /* WebsitesView.swift in Sources */,
 				950D82CA24DDBCA6002EAAD7 /* GalleryView.swift in Sources */,
 				955C6F4B24DFDE14000BD204 /* WebLaunchScreen.swift in Sources */,
+				955EB31924E6CF970022EF7A /* Recycle.swift in Sources */,
 				9596C28624D5ADE70021267B /* TravelView.swift in Sources */,
 				9559B12224D684A900ABBB19 /* DietView.swift in Sources */,
+				955285D724E59C7E00B8EED2 /* heating.swift in Sources */,
 				9566BA4524D2BD1700E85B16 /* AppDelegate.swift in Sources */,
+				955EB31724E6CC240022EF7A /* FlightOffest.swift in Sources */,
+				955285CF24E590F600B8EED2 /* ShowerView.swift in Sources */,
 				9566BA6124D2C38700E85B16 /* LaunchScreen1.swift in Sources */,
 				9566BA6A24D2F91500E85B16 /* HomeView.swift in Sources */,
 				9596C28424D595F10021267B /* AddHabitsView.swift in Sources */,
 				9566BA6624D2F68000E85B16 /* LaunchScreen2.swift in Sources */,
+				955285D324E59B4C00B8EED2 /* Kettle.swift in Sources */,
+				955285D124E5993900B8EED2 /* NoCar.swift in Sources */,
 				9566BA6824D2F7E100E85B16 /* LaunchScreen3.swift in Sources */,
 				9566BA6424D2C43700E85B16 /* Colors.swift in Sources */,
 				9510417C24E029D80035907D /* OnboardingView.swift in Sources */,
 				9559B11E24D663D900ABBB19 /* CongratulationsView.swift in Sources */,
+				955EB31524E6C7EE0022EF7A /* MeatFree.swift in Sources */,
+				955285D524E59BDE00B8EED2 /* Switch.swift in Sources */,
 				9566BA5F24D2BE6C00E85B16 /* LaunchScreen.swift in Sources */,
 				9566BA4C24D2BD1700E85B16 /* ContentView.swift in Sources */,
 				9510417A24E028F30035907D /* SubView.swift in Sources */,
